@@ -1,0 +1,26 @@
+.form-content {
+  width: 80%;
+  float: none;
+  margin: 0 auto;
+  display: block;
+}
+
+.has-danger {
+  font-size: 11px;
+}
+
+input, select {
+  border: none !important;
+  border-bottom: 1px solid #ccc !important;
+  border-radius: 0px !important;
+
+}
+
+.form-control {
+  border-radius: 0px !important;
+  -webkit-appearance: none;
+}
+
+.react-datepicker__input-container {
+  width: 100%;
+}
